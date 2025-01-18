@@ -1,7 +1,7 @@
 {
     "APP_SETTINGS": {
         "app_accountLink": "s",
-        "app_privacyPolicyLink": "s",
+        "app_privacyPolicyLink": "https://travismills227.blogspot.com/p/pricacypolicy.html",
         "app_shareLink": "",
         "app_rateLink": "",
         "app_updateAppDialogStatus": "0",
@@ -39,7 +39,7 @@
         "NativeAd_text_color": "#000000",
         "Show_bigNative": "on",
         "Is_inter_alternate": false,
-        "quizLink": "https://136.quizwinz.com/",
+        "quizLink": "s",
         "animation_type": "s",
         "preload_native": false,
         "preload_nativeBanner": false
